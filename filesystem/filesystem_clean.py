@@ -138,6 +138,7 @@ if __name__ == '__main__':
 #确保调用一次日志模块
     mygo=mylog()
     conf = myconfig(pwdconfig)
+    my_confsecions=conf.sections()
     for section in my_confsecions:
         my_clean_day=conf.get(section,'clean_time')
         #删除过期文件
