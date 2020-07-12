@@ -1,0 +1,131 @@
+2018-11-23 14:44:40,897 - ./main.py - 16982 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 14:44:42,185 - ./main.py - 16982 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 14:44:42,321 - ./main.py - 16982 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:22:07,014 - ./main.py - 18213 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:22:07,082 - ./main.py - 18213 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:22:07,199 - ./main.py - 18213 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:22:07,203 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 18213 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:23:04,712 - ./main.py - 18615 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:23:04,774 - ./main.py - 18615 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:23:04,896 - ./main.py - 18615 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:23:04,899 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 18615 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:23:25,751 - ./main.py - 18779 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:23:25,814 - ./main.py - 18779 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:23:25,941 - ./main.py - 18779 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:23:25,945 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 18779 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:43:40,850 - ./main.py - 25795 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:43:40,919 - ./main.py - 25795 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:43:41,037 - ./main.py - 25795 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:43:41,041 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 25795 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:55:02,301 - ./main.py - 29842 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:55:02,365 - ./main.py - 29842 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:55:02,480 - ./main.py - 29842 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:55:02,483 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 29842 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:56:22,177 - ./main.py - 30326 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:56:22,244 - ./main.py - 30326 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:56:22,362 - ./main.py - 30326 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:56:22,366 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 30326 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:57:01,761 - ./main.py - 30613 - INFO: begin
+2018-11-23 16:57:01,880 - ./main.py - 30613 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:57:01,939 - ./main.py - 30613 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:57:02,062 - ./main.py - 30613 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:57:02,066 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 30613 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 16:57:45,371 - ./main.py - 30911 - INFO: begin
+2018-11-23 16:57:45,486 - ./main.py - 30911 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 16:57:45,550 - ./main.py - 30911 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 16:57:45,668 - ./main.py - 30911 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 16:57:45,673 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 30911 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:02:29,379 - ./main.py - 32590 - INFO: begin
+2018-11-23 17:02:29,533 - ./main.py - 32590 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:02:29,608 - ./main.py - 32590 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:02:29,720 - ./main.py - 32590 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:02:29,724 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 32590 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:09:12,349 - <stdin> - 2194 - ERROR: errorsssss
+2018-11-23 17:09:13,787 - <stdin> - 2194 - ERROR: errorsssss
+2018-11-23 17:09:56,624 - ./main.py - 2980 - INFO: begin
+2018-11-23 17:09:56,754 - ./main.py - 2980 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:09:56,828 - ./main.py - 2980 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:09:56,956 - ./main.py - 2980 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:09:56,960 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 2980 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:11:40,978 - ./main.py - 3642 - INFO: 11
+2018-11-23 17:11:40,980 - ./main.py - 3642 - INFO: begin
+2018-11-23 17:11:41,095 - ./main.py - 3642 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:11:41,161 - ./main.py - 3642 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:11:41,276 - ./main.py - 3642 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:11:41,280 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 3642 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:15:25,340 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 4984 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:16:08,027 - ./main.py - 5245 - INFO: 11
+2018-11-23 17:16:08,029 - ./main.py - 5245 - INFO: begin
+2018-11-23 17:16:08,156 - ./main.py - 5245 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:16:08,223 - ./main.py - 5245 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:16:08,353 - ./main.py - 5245 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:16:08,357 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 5245 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:17:05,937 - ./main.py - 5719 - INFO: 11
+2018-11-23 17:17:05,940 - ./main.py - 5719 - INFO: begin
+2018-11-23 17:17:06,071 - ./main.py - 5719 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:17:06,138 - ./main.py - 5719 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:17:06,259 - ./main.py - 5719 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:17:06,263 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 5719 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:17:22,070 - ./main.py - 5843 - INFO: 11
+2018-11-23 17:17:22,072 - ./main.py - 5843 - INFO: begin
+2018-11-23 17:17:22,179 - ./main.py - 5843 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:17:22,232 - ./main.py - 5843 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:17:22,356 - ./main.py - 5843 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:17:22,360 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 5843 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:17:25,037 - ./main.py - 5876 - INFO: 11
+2018-11-23 17:17:25,039 - ./main.py - 5876 - INFO: begin
+2018-11-23 17:17:25,150 - ./main.py - 5876 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:17:25,230 - ./main.py - 5876 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:17:25,365 - ./main.py - 5876 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:17:25,369 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 5876 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:17:41,066 - ./main.py - 5970 - INFO: 11
+2018-11-23 17:17:41,068 - ./main.py - 5970 - INFO: begin
+2018-11-23 17:17:41,189 - ./main.py - 5970 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:17:41,257 - ./main.py - 5970 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:17:41,370 - ./main.py - 5970 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:17:41,374 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 5970 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:17:55,481 - ./main.py - 6082 - INFO: 11
+2018-11-23 17:17:55,484 - ./main.py - 6082 - INFO: begin
+2018-11-23 17:17:55,605 - ./main.py - 6082 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:17:55,667 - ./main.py - 6082 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:17:55,796 - ./main.py - 6082 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:17:55,800 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 6082 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:18:42,065 - ./main.py - 6383 - INFO: 11
+2018-11-23 17:19:37,984 - ./main.py - 6757 - INFO: 11
+2018-11-23 17:19:37,987 - ./main.py - 6757 - INFO: begin
+2018-11-23 17:19:38,109 - ./main.py - 6757 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:19:38,175 - ./main.py - 6757 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:19:38,296 - ./main.py - 6757 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:19:38,299 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 6757 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:21:00,558 - ./main.py - 7280 - INFO: 11
+2018-11-23 17:21:00,561 - ./main.py - 7280 - INFO: begin
+2018-11-23 17:21:00,689 - ./main.py - 7280 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:21:00,755 - ./main.py - 7280 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:21:00,871 - ./main.py - 7280 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:21:00,875 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 7280 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:21:25,315 - ./main.py - 7437 - INFO: 11
+2018-11-23 17:21:25,317 - ./main.py - 7437 - INFO: begin
+2018-11-23 17:21:25,430 - ./main.py - 7437 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:21:25,490 - ./main.py - 7437 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:21:25,607 - ./main.py - 7437 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:21:25,611 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 7437 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:21:53,522 - ./main.py - 7650 - INFO: 11
+2018-11-23 17:21:53,524 - ./main.py - 7650 - INFO: begin
+2018-11-23 17:21:53,644 - ./main.py - 7650 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:21:53,702 - ./main.py - 7650 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:21:53,826 - ./main.py - 7650 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:21:53,830 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 7650 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:24:02,638 - ./main.py - 8402 - INFO: begin
+2018-11-23 17:24:02,764 - ./main.py - 8402 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:24:02,825 - ./main.py - 8402 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:24:02,940 - ./main.py - 8402 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:24:02,944 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 8402 - INFO: 628531ba2466994fe9fabd4f73eec5f3
+2018-11-23 17:25:35,845 - <stdin> - 8717 - ERROR: errorsssss
+2018-11-23 17:25:40,557 - <stdin> - 8717 - INFO: errorsssss
+2018-11-23 17:25:45,149 - <stdin> - 8717 - DEBUG: errorsssss
+2018-11-23 17:28:17,338 - <stdin> - 8717 - DEBUG: errorsssss
+2018-11-23 17:29:57,456 - ./main.py - 10390 - INFO: begin
+2018-11-23 17:29:57,571 - ./main.py - 10390 - INFO: 10.62.11.52 mytest01 is done,result : []
+2018-11-23 17:29:57,636 - ./main.py - 10390 - INFO: 10.62.11.51 easyAuditDB is done,result : []
+2018-11-23 17:29:57,751 - ./main.py - 10390 - INFO: 10.62.11.51 mytest01 is done,result : []
+2018-11-23 17:29:57,755 - /opt/devops/gitee.com/newpy/db/backup/tool/My_Compress.py - 10390 - INFO: 628531ba2466994fe9fabd4f73eec5f3
